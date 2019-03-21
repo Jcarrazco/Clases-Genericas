@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\bin\Debug\clasesgenericas.exe.config
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\bin\Debug\clasesgenericas.exe
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\bin\Debug\clasesgenericas.pdb
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\obj\Debug\clasesgenericas.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\obj\Debug\clasesgenericas.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\obj\Debug\clasesgenericas.exe
+C:\Users\carrascoja\source\repos\clasesgenericas\clasesgenericas\obj\Debug\clasesgenericas.pdb
